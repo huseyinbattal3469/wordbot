@@ -1,0 +1,974 @@
+{
+  "questions": [
+    {
+      "question": "la sua",
+      "answer": "her",
+      "token": 1
+    },
+    {
+      "question": "le mie",
+      "answer": "my",
+      "token": 1
+    },
+    {
+      "question": "le tue",
+      "answer": "your",
+      "token": 1
+    },
+    {
+      "question": "loro hanno",
+      "answer": "they have",
+      "token": 1
+    },
+    {
+      "question": "musicista",
+      "answer": "musician",
+      "token": 1
+    },
+    {
+      "question": "paura",
+      "answer": "scared",
+      "token": 1
+    },
+    {
+      "question": "loro avevano",
+      "answer": "they used to have",
+      "token": 1
+    },
+    {
+      "question": "parco",
+      "answer": "park",
+      "token": 1
+    },
+    {
+      "question": "la nostra",
+      "answer": "our",
+      "token": 1
+    },
+    {
+      "question": "segretario/a",
+      "answer": "assistant",
+      "token": 1
+    },
+    {
+      "question": "farmacia",
+      "answer": "pharmacy",
+      "token": 1
+    },
+    {
+      "question": "univercita",
+      "answer": "university",
+      "token": 1
+    },
+    {
+      "question": "uovo",
+      "answer": "egg",
+      "token": 1
+    },
+    {
+      "question": "architetto/a",
+      "answer": "architect",
+      "token": 1
+    },
+    {
+      "question": "lago",
+      "answer": "lake",
+      "token": 1
+    },
+    {
+      "question": "la loro",
+      "answer": "their",
+      "token": 1
+    },
+    {
+      "question": "il mio",
+      "answer": "my",
+      "token": 1
+    },
+    {
+      "question": "gelato",
+      "answer": "ice cream",
+      "token": 1
+    },
+    {
+      "question": "felice",
+      "answer": "happy",
+      "token": 1
+    },
+    {
+      "question": "il vostro",
+      "answer": "your",
+      "token": 1
+    },
+    {
+      "question": "via",
+      "answer": "street",
+      "token": 1
+    },
+    {
+      "question": "il loro",
+      "answer": "their",
+      "token": 1
+    },
+    {
+      "question": "attore",
+      "answer": "actor",
+      "token": 1
+    },
+    {
+      "question": "caldo",
+      "answer": "hot",
+      "token": 1
+    },
+    {
+      "question": "lei ha",
+      "answer": "she has",
+      "token": 1
+    },
+    {
+      "question": "lui ha",
+      "answer": "he has",
+      "token": 1
+    },
+    {
+      "question": "poliziotto/a",
+      "answer": "policeman",
+      "token": 1
+    },
+    {
+      "question": "la vostra",
+      "answer": "your",
+      "token": 1
+    },
+    {
+      "question": "avvocato/a",
+      "answer": "lawyer",
+      "token": 1
+    },
+    {
+      "question": "noi avevamo avuto",
+      "answer": "we had",
+      "token": 1
+    },
+    {
+      "question": "figlio",
+      "answer": "son",
+      "token": 1
+    },
+    {
+      "question": "tu avra",
+      "answer": "you will have",
+      "token": 1
+    },
+    {
+      "question": "elettricista",
+      "answer": "electrician",
+      "token": 1
+    },
+    {
+      "question": "le vostre",
+      "answer": "your",
+      "token": 1
+    },
+    {
+      "question": "ballerino/a",
+      "answer": "dancer",
+      "token": 1
+    },
+    {
+      "question": "giornalista",
+      "answer": "journalist",
+      "token": 1
+    },
+    {
+      "question": "noi avevamo",
+      "answer": "we used to have",
+      "token": 1
+    },
+    {
+      "question": "parrucchiere/a",
+      "answer": "hairdresser",
+      "token": 1
+    },
+    {
+      "question": "loro sono",
+      "answer": "they are",
+      "token": 1
+    },
+    {
+      "question": "matita",
+      "answer": "pencil",
+      "token": 1
+    },
+    {
+      "question": "i nostri",
+      "answer": "our",
+      "token": 1
+    },
+    {
+      "question": "fame",
+      "answer": "hungry",
+      "token": 1
+    },
+    {
+      "question": "voi avete avuto",
+      "answer": "you had",
+      "token": 1
+    },
+    {
+      "question": "idraulico",
+      "answer": "plumber",
+      "token": 1
+    },
+    {
+      "question": "sonno",
+      "answer": "sleepy",
+      "token": 1
+    },
+    {
+      "question": "lui avra",
+      "answer": "he will have",
+      "token": 1
+    },
+    {
+      "question": "le sue",
+      "answer": "her",
+      "token": 1
+    },
+    {
+      "question": "farmacista",
+      "answer": "pharmacist",
+      "token": 1
+    },
+    {
+      "question": "dottore/dottoressa",
+      "answer": "doctor",
+      "token": 1
+    },
+    {
+      "question": "noi siamo",
+      "answer": "we are",
+      "token": 1
+    },
+    {
+      "question": "pompiere",
+      "answer": "fireman",
+      "token": 1
+    },
+    {
+      "question": "freddo",
+      "answer": "cold",
+      "token": 1
+    },
+    {
+      "question": "doccia",
+      "answer": "shower",
+      "token": 1
+    },
+    {
+      "question": "voi avevate",
+      "answer": "you used to have",
+      "token": 1
+    },
+    {
+      "question": "io avro",
+      "answer": "i will have",
+      "token": 1
+    },
+    {
+      "question": "pesca",
+      "answer": "peach",
+      "token": 1
+    },
+    {
+      "question": "Archeologo/a",
+      "answer": "archaeologist",
+      "token": 1
+    },
+    {
+      "question": "il tuo",
+      "answer": "your",
+      "token": 1
+    },
+    {
+      "question": "valigia",
+      "answer": "suitcase",
+      "token": 1
+    },
+    {
+      "question": "camionista",
+      "answer": "lorry driver",
+      "token": 0.5
+    },
+    {
+      "question": "fisioterapista",
+      "answer": "physiotherapist",
+      "token": 0.5
+    },
+    {
+      "question": "scrittore/scrittrice",
+      "answer": "writer",
+      "token": 1
+    },
+    {
+      "question": "noi avremo",
+      "answer": "we will have",
+      "token": 1
+    },
+    {
+      "question": "i vostri",
+      "answer": "your",
+      "token": 0.5
+    },
+    {
+      "question": "il nostro",
+      "answer": "our",
+      "token": 0.5
+    },
+    {
+      "question": "tu avevi",
+      "answer": "you used to have",
+      "token": 0.5
+    },
+    {
+      "question": "io avevo",
+      "answer": "i used to have",
+      "token": 1
+    },
+    {
+      "question": "noi abbiamo",
+      "answer": "we have",
+      "token": 0.5
+    },
+    {
+      "question": "pensione",
+      "answer": "pension",
+      "token": 1
+    },
+    {
+      "question": "tedesco",
+      "answer": "germans",
+      "token": 1
+    },
+    {
+      "question": "voi avete",
+      "answer": "you have",
+      "token": 0.5
+    },
+    {
+      "question": "imprenditore",
+      "answer": "entrepreneur",
+      "token": 1
+    },
+    {
+      "question": "psicologo/a",
+      "answer": "psychologist",
+      "token": 0.5
+    },
+    {
+      "question": "cuoco/a",
+      "answer": "chef",
+      "token": 1
+    },
+    {
+      "question": "le nostre",
+      "answer": "our",
+      "token": 0.5
+    },
+    {
+      "question": "busta paga",
+      "answer": "payslip",
+      "token": 0.5
+    },
+    {
+      "question": "i tuoi",
+      "answer": "your",
+      "token": 1.0
+    },
+    {
+      "question": "ferie",
+      "answer": "holidays",
+      "token": 0.5
+    },
+    {
+      "question": "collega",
+      "answer": "workmate",
+      "token": 1
+    },
+    {
+      "question": "stipendio",
+      "answer": "salary",
+      "token": 1
+    },
+    {
+      "question": "sete",
+      "answer": "thirst",
+      "token": 1
+    },
+    {
+      "question": "capo",
+      "answer": "boss",
+      "token": 1
+    },
+    {
+      "question": "attrica",
+      "answer": "actress",
+      "token": 1
+    },
+    {
+      "question": "voi siette",
+      "answer": "you are",
+      "token": 1.5
+    },
+    {
+      "question": "tu hai avuto",
+      "answer": "you had",
+      "token": 2
+    },
+    {
+      "question": "negozio",
+      "answer": "store",
+      "token": 2
+    },
+    {
+      "question": "loro hanno avuto",
+      "answer": "they had",
+      "token": 2
+    },
+    {
+      "question": "la tua",
+      "answer": "your",
+      "token": 2
+    },
+    {
+      "question": "io ho",
+      "answer": "i have",
+      "token": 2
+    },
+    {
+      "question": "voi avrete",
+      "answer": "you will have",
+      "token": 2.0
+    },
+    {
+      "question": "cantante",
+      "answer": "singer",
+      "token": 2
+    },
+    {
+      "question": "bugia",
+      "answer": "lie",
+      "token": 1
+    },
+    {
+      "question": "meccanico",
+      "answer": "mechanic",
+      "token": 1
+    },
+    {
+      "question": "lui aveva",
+      "answer": "he used to has",
+      "token": 2
+    },
+    {
+      "question": "commesso/a",
+      "answer": "shop assistant",
+      "token": 1
+    },
+    {
+      "question": "braccio",
+      "answer": "arm",
+      "token": 2
+    },
+    {
+      "question": "albergo",
+      "answer": "hotel",
+      "token": 1
+    },
+    {
+      "question": "tu hai",
+      "answer": "you have",
+      "token": 2
+    },
+    {
+      "question": "lei avra",
+      "answer": "she will have",
+      "token": 2
+    },
+    {
+      "question": "i miei",
+      "answer": "my",
+      "token": 2
+    },
+    {
+      "question": "tu sei",
+      "answer": "you are",
+      "token": 3
+    },
+    {
+      "question": "io sono",
+      "answer": "i am",
+      "token": 2
+    },
+    {
+      "question": "io ho avuto",
+      "answer": "i had",
+      "token": 2
+    },
+    {
+      "question": "lui e",
+      "answer": "he is",
+      "token": 2
+    },
+    {
+      "question": "la mia",
+      "answer": "my",
+      "token": 2
+    },
+    {
+      "question": "diga",
+      "answer": "dam",
+      "token": 1
+    },
+    {
+      "question": "macchina",
+      "answer": "car",
+      "token": 2
+    },
+    {
+      "question": "ristorante",
+      "answer": "restaurant",
+      "token": 2
+    },
+    {
+      "question": "lei e",
+      "answer": "she is",
+      "token": 2
+    },
+    {
+      "question": "dormire",
+      "answer": "to sleep",
+      "token": 1
+    },
+    {
+      "question": "da",
+      "answer": "from",
+      "token": 1
+    },
+    {
+      "question": "unire",
+      "answer": "to unite",
+      "token": 1
+    },
+    {
+      "question": "nero",
+      "answer": "black",
+      "token": 1
+    },
+    {
+      "question": "sparire",
+      "answer": "to disappear",
+      "token": 0.5
+    },
+    {
+      "question": "proibire",
+      "answer": "to prohibit",
+      "token": 1
+    },
+    {
+      "question": "qui",
+      "answer": "here",
+      "token": 1
+    },
+    {
+      "question": "lo/la",
+      "answer": "the",
+      "token": 1
+    },
+    {
+      "question": "navigare",
+      "answer": "to navigate",
+      "token": 1
+    },
+    {
+      "question": "inserire",
+      "answer": "to insert",
+      "token": 1
+    },
+    {
+      "question": "finire",
+      "answer": "to finish",
+      "token": 1
+    },
+    {
+      "question": "preferire",
+      "answer": "to prefer",
+      "token": 1
+    },
+    {
+      "question": "c'e",
+      "answer": "there is",
+      "token": 0.5
+    },
+    {
+      "question": "giocare",
+      "answer": "to play",
+      "token": 1
+    },
+    {
+      "question": "scontrino",
+      "answer": "receipt",
+      "token": 1
+    },
+    {
+      "question": "piccolo",
+      "answer": "small",
+      "token": 1
+    },
+    {
+      "question": "alle",
+      "answer": "to",
+      "token": 1
+    },
+    {
+      "question": "essempio",
+      "answer": "example",
+      "token": 1
+    },
+    {
+      "question": "chiudere",
+      "answer": "to close",
+      "token": 1
+    },
+    {
+      "question": "aprire",
+      "answer": "to open",
+      "token": 1
+    },
+    {
+      "question": "molto",
+      "answer": "very",
+      "token": 1
+    },
+    {
+      "question": "capire",
+      "answer": "to understand",
+      "token": 1
+    },
+    {
+      "question": "porta",
+      "answer": "door",
+      "token": 1
+    },
+    {
+      "question": "guardare",
+      "answer": "to watch",
+      "token": 1
+    },
+    {
+      "question": "pulire",
+      "answer": "to clean",
+      "token": 1.0
+    },
+    {
+      "question": "maglione",
+      "answer": "sweater",
+      "token": 0.5
+    },
+    {
+      "question": "prendere",
+      "answer": "to take",
+      "token": 1
+    },
+    {
+      "question": "leggere",
+      "answer": "to read",
+      "token": 0.5
+    },
+    {
+      "question": "tardi",
+      "answer": "late",
+      "token": 1
+    },
+    {
+      "question": "professore/professoressa",
+      "answer": "teacher",
+      "token": 1
+    },
+    {
+      "question": "infermiere/a",
+      "answer": "nurse",
+      "token": 3
+    },
+    {
+      "question": "uficio",
+      "answer": "office",
+      "token": 2
+    },
+    {
+      "question": "i suoi",
+      "answer": "his",
+      "token": 1
+    },
+    {
+      "question": "specchio",
+      "answer": "mirror",
+      "token": 2
+    },
+    {
+      "question": "loro avranno",
+      "answer": "they will have",
+      "token": 1.5
+    },
+    {
+      "question": "amica",
+      "answer": "friend",
+      "token": 2
+    },
+    {
+      "question": "medico",
+      "answer": "doctor",
+      "token": 2
+    },
+    {
+      "question": "bibliotecario/a",
+      "answer": "librarian",
+      "token": 2
+    },
+    {
+      "question": "dentista",
+      "answer": "dentist",
+      "token": 2
+    },
+    {
+      "question": "lavorare",
+      "answer": "to work",
+      "token": 2.0
+    },
+    {
+      "question": "citta",
+      "answer": "city",
+      "token": 3
+    },
+    {
+      "question": "lui ha avuto",
+      "answer": "he had",
+      "token": 3.5
+    },
+    {
+      "question": "zaino",
+      "answer": "backpack",
+      "token": 2
+    },
+    {
+      "question": "punire",
+      "answer": "to punish",
+      "token": 2.0
+    },
+    {
+      "question": "lei aveva",
+      "answer": "she used to has",
+      "token": 2.0
+    },
+    {
+      "question": "barca",
+      "answer": "boat",
+      "token": 1
+    },
+    {
+      "question": "il suo",
+      "answer": "his",
+      "token": 1
+    },
+    {
+      "question": "pensionato",
+      "answer": "retired",
+      "token": 1.5
+    },
+    {
+      "question": "cameriere/a ",
+      "answer": "waiter",
+      "token": 2
+    },
+    {
+      "question": "disoccupato",
+      "answer": "unenployed",
+      "token": 0.5
+    },
+    {
+      "question": "le loro",
+      "answer": "their",
+      "token": 2
+    },
+    {
+      "question": "vino",
+      "answer": "wine",
+      "token": 1
+    },
+    {
+      "question": "mare",
+      "answer": "sea",
+      "token": 1
+    },
+    {
+      "question": "commercialista",
+      "answer": "accountant",
+      "token": 4
+    },
+    {
+      "question": "spiaggia",
+      "answer": "beach",
+      "token": 1
+    },
+    {
+      "question": "sentire",
+      "answer": "to feel",
+      "token": 3
+    },
+    {
+      "question": "in",
+      "answer": "to",
+      "token": 1
+    },
+    {
+      "question": "la musica",
+      "answer": "music",
+      "token": 1
+    },
+    {
+      "question": "il caffe",
+      "answer": "coffee",
+      "token": 1
+    },
+    {
+      "question": "non...mai",
+      "answer": "never",
+      "token": 1
+    },
+    {
+      "question": "esco",
+      "answer": "go out",
+      "token": 1
+    },
+    {
+      "question": "di solito",
+      "answer": "usually",
+      "token": 1
+    },
+    {
+      "question": "studiere",
+      "answer": "to study",
+      "token": 1
+    },
+    {
+      "question": "molto spesso",
+      "answer": "very often",
+      "token": 1
+    },
+    {
+      "question": "non...quasi mai",
+      "answer": "almost never",
+      "token": 1
+    },
+    {
+      "question": "quasi",
+      "answer": "almost",
+      "token": 1
+    },
+    {
+      "question": "la tv",
+      "answer": "television",
+      "token": 1
+    },
+    {
+      "question": "il formaggio",
+      "answer": "cheese",
+      "token": 1
+    },
+    {
+      "question": "non",
+      "answer": "not",
+      "token": 1
+    },
+    {
+      "question": "ricapitoliamo",
+      "answer": "recap",
+      "token": 1
+    },
+    {
+      "question": "vadare",
+      "answer": "to go",
+      "token": 1
+    },
+    {
+      "question": "bevire",
+      "answer": "to drink",
+      "token": -1
+    },
+    {
+      "question": "con",
+      "answer": "with",
+      "token": 1
+    },
+    {
+      "question": "palestra",
+      "answer": "gym",
+      "token": -1
+    },
+    {
+      "question": "a",
+      "answer": "to",
+      "token": 1
+    },
+    {
+      "question": "al",
+      "answer": "to the",
+      "token": 1
+    },
+    {
+      "question": "ascoltare",
+      "answer": "to listen",
+      "token": -3
+    },
+    {
+      "question": "piscina",
+      "answer": "pool",
+      "token": -2
+    },
+    {
+      "question": "quasi sempre",
+      "answer": "almost always",
+      "token": -2.0
+    },
+    {
+      "question": "alora",
+      "answer": "then",
+      "token": -2
+    },
+    {
+      "question": "qualche volta",
+      "answer": "sometimes",
+      "token": -3
+    },
+    {
+      "question": "sempre",
+      "answer": "always",
+      "token": -3
+    },
+    {
+      "question": "spesso",
+      "answer": "often",
+      "token": -4
+    },
+    {
+      "question": "mangare",
+      "answer": "to eat",
+      "token": -3
+    },
+    {
+      "question": "presto",
+      "answer": "early",
+      "token": -3
+    }
+  ]
+}
