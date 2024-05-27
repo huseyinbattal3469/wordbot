@@ -2,7 +2,6 @@ import json
 from difflib import get_close_matches
 import random as rnd
 import pandas as pd
-import json
 # Load knowledge base
 
 def load_knowledge_base(file_path:str):
