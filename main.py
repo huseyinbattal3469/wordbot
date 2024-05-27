@@ -33,7 +33,7 @@ def get_answer_for_question(question:str, knowledge_base:dict) -> str | None:
 def word_bot():
     knowledge_base = load_knowledge_base("database.json")
     while True:
-        user_input = int(input("Welcome to the Language Learning Program! What would you like to do?\nTrain Italian(1), Teach Italian Words to Bot(0), Show the Learning Summary(3), Exit(2): "))
+        user_input = int(input("Welcome to the Language Learning Program! What would you like to do?\nTrain(1), Teach Words to Bot(0), Show the Learning Summary(3), Exit(2): "))
         if user_input == 2:
             break
         if user_input == 1:      
