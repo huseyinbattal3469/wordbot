@@ -55,9 +55,9 @@ This project is a **Language Learning Bot** designed to help users learn and rei
 ```plaintext
 Welcome to the Language Learning Program! What would you like to do?
 Train(1), Teach Words to Bot(0), Show the Learning Summary(3), Exit(2): 1
-Bot: What is 'apple(0)' means?
-You: fruit
-Bot: That's correct! apple: fruit
+Bot: What is 'elma(0)' means?
+You: apple
+Bot: That's correct! apple: elma
 ************
 ```
 
@@ -67,7 +67,3 @@ This project is developed by Hüseyin Battal.
 
 GitHub: [https://github.com/huseyinbattal3469](https://github.com/huseyinbattal3469)  
 LinkedIn: [https://www.linkedin.com/in/huseyin-battal/](https://www.linkedin.com/in/huseyin-battal/)
-
----
-
-This `README.md` provides a clear and concise overview of your word learning bot project. Let me know if you need any further adjustments!
