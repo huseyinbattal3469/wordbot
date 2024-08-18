@@ -21,11 +21,11 @@ This project is a **Language Learning Bot** designed to help users learn and rei
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/huseyinbattal3469/word-learning-bot.git
+   git clone https://github.com/huseyinbattal3469/wordbot.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd word-learning-bot
+   cd wordbot
    ```
 3. **Install required packages**:
    ```bash
