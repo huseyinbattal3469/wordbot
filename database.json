@@ -1,0 +1,19 @@
+{
+  "languages": [
+    {
+      "name": "german",
+      "words": [
+        {
+          "question": "ich",
+          "answer": "i",
+          "token": 1
+        },
+        {
+          "question": "hund",
+          "answer": "dog",
+          "token": 1.5
+        }
+      ]
+    }
+  ]
+}

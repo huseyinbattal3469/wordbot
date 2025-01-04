@@ -68,7 +68,10 @@ def get_answer_for_question(word:str, current_language_base:dict) -> str | None:
         print(word, w["question"])
         if w["question"] == word:
             return w["answer"]
-        
+
+def are_words_similar(word, meaning, threshold=0.6):
+    return True if levenshtein.normalized_similarity(word, meaning) >= threshold else False
+
 def word_bot():
     while True:
         user_input = input("\nPlease type a language you want to learn or type 'exit' to close the program: ")
@@ -78,7 +81,11 @@ def word_bot():
         knowledge_base = load_knowledge_base("database.json", user_input)
         index, current_language_base  = next(((i ,lang) for i, lang in enumerate(knowledge_base["languages"]) if lang["name"] == user_input), None)
         while True:
-            user_input = int(input("Welcome to the Language Learning Program! What would you like to do?\nTrain(1), Teach Words to Bot(0), Show the Learning Summary(3), Exit and Return to the Language Selection(2): "))
+            try:
+                user_input = int(input("Welcome to the Language Learning Program! What would you like to do?\nTrain(1), Teach Words to Bot(0), Show the Learning Summary(3), Exit and Return to the Language Selection(2): "))
+            except ValueError:
+                print("Invalid input! Please enter a number.\n")
+                continue
             if user_input == 2:
                 break
             if user_input == 1:
@@ -109,11 +116,12 @@ def word_bot():
                         current_language_base["words"].append(question)
                         print("\n"*20)
                         break
-                    result = levenshtein.normalized_similarity(user_input, meaning) >= 0.5 #get_close_matches(user_input, [meaning],n=1,cutoff=0.5)
+                    similarity_treshold = 0.5
+                    result = are_words_similar(user_input, meaning) #levenshtein.normalized_similarity(user_input, meaning) >= similarity_treshold #get_close_matches(user_input, [meaning],n=1,cutoff=0.5)
                     if user_input.startswith("to ") and meaning.startswith("to "):
                             user_input = user_input.split(" ")[-1]
                             meaning = meaning.split(" ")[-1]
-                            result = levenshtein.normalized_similarity(user_input, meaning) >= 0.5 #get_close_matches(user_input, [meaning],n=1,cutoff=0.5)
+                            result = are_words_similar(user_input, meaning) #levenshtein.normalized_similarity(user_input, meaning) >= similarity_treshold #get_close_matches(user_input, [meaning],n=1,cutoff=0.5)
                             user_input = "to "+user_input
                             meaning = "to "+meaning
                     
@@ -162,5 +170,6 @@ def word_bot():
                 print("BEST 5 WORD BY STRIKE")
                 df_best = df.sort_values(by="token",ascending=False).head(5).to_string(index=False)   
                 print(df_best, end="\n**********\n")
+
 if __name__ == "__main__":
     word_bot()
