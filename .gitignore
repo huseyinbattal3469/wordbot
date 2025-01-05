@@ -1,2 +1,4 @@
 .venv
 dump
+.pytest_cache
+database.json

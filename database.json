@@ -4,13 +4,23 @@
       "name": "german",
       "words": [
         {
-          "question": "ich",
-          "answer": "i",
-          "token": 1
-        },
-        {
           "question": "hund",
           "answer": "dog",
+          "token": 3.5
+        },
+        {
+          "question": "ich",
+          "answer": "i",
+          "token": 4
+        },
+        {
+          "question": "kellner",
+          "answer": "waiter",
+          "token": 1.5
+        },
+        {
+          "question": "vater",
+          "answer": "father",
           "token": 1.5
         }
       ]
