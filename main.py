@@ -97,7 +97,7 @@ def word_bot():
             break
         knowledge_base = load_knowledge_base("database.json", user_input)
         index, current_language_base  = next(((i ,lang) for i, lang in enumerate(knowledge_base["languages"]) if lang["name"] == user_input), None)
-        while True:#
+        while True:
             try:
                 user_input = int(input("Welcome to the Language Learning Program! What would you like to do?\nTrain(1), Teach Words to Bot(0), Show the Learning Summary(3), Exit or Return to the Language Selection(2): "))
             except ValueError:
@@ -183,7 +183,7 @@ def word_bot():
                             print("Skipped...")
                             
             elif user_input == 3:
-                #
+                
                 if current_language_base["words"] == []:
                     print("Please select the 'Teach Words to Bot(0)' option before the view summary..\n") 
                     continue
