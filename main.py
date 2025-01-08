@@ -105,6 +105,7 @@ def word_bot():
                 continue
             if user_input == 2:
                 break
+
             if user_input == 1:
                 if current_language_base["words"] == []:
                         print("Please select the 'Teach Words to Bot(0)' option before the training...\n") 
@@ -182,6 +183,9 @@ def word_bot():
                             print("Skipped...")
                             
             elif user_input == 3:
+                if current_language_base["words"] == []:
+                    print("Please select the 'Teach Words to Bot(0)' option before the view summary..\n") 
+                    continue
                 print("**********\n'-' = Bad. More away from 0 means worse.\n'0' = Fresh Words.\n'+' = Good. More away from 0 means better.\n")
                 with open("database.json","r") as f:
                     words = current_language_base['words']
