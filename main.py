@@ -183,6 +183,7 @@ def word_bot():
                             print("Skipped...")
                             
             elif user_input == 3:
+                #
                 if current_language_base["words"] == []:
                     print("Please select the 'Teach Words to Bot(0)' option before the view summary..\n") 
                     continue
